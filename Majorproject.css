@@ -1,0 +1,35 @@
+li{
+	display:inline-block;
+}
+
+ul{
+	text-align:center;
+	padding-top:25px
+}
+
+a{
+	font-size:30px;
+	text-decoration:none;
+	padding:10px;
+	color:white;
+}
+
+a:hover{
+	background:orange;
+	border:2px solid white;
+}
+	
+div{
+	text-align:center;
+	font-size:15px;
+	color:white;
+	background:blue;
+}
+nav{
+	background-color: black;
+	height: 75px;
+}
+body{
+	background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdwLgyy_v5yU2KvNaGXdMku3FTsZN0HQE0g&usqp=CAU);
+	background-size:cover;
+}
